@@ -1,0 +1,12 @@
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\bin\Debug\netcoreapp3.1\PersistentDatabase.dll
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\bin\Debug\netcoreapp3.1\PersistentDatabase.pdb
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\Service\obj\Debug\netcoreapp3.1\Service.pdb

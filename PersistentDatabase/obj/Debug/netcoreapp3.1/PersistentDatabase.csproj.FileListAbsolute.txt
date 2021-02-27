@@ -1,0 +1,12 @@
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\bin\Debug\netcoreapp3.1\PersistentDatabase.deps.json
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\bin\Debug\netcoreapp3.1\PersistentDatabase.runtimeconfig.json
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\bin\Debug\netcoreapp3.1\PersistentDatabase.runtimeconfig.dev.json
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\bin\Debug\netcoreapp3.1\PersistentDatabase.dll
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\bin\Debug\netcoreapp3.1\PersistentDatabase.pdb
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.AssemblyInfoInputs.cache
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.AssemblyInfo.cs
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.csproj.CoreCompileInputs.cache
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.dll
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.pdb
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.genruntimeconfig.cache
+D:\DeLaSalle\8voSemestre\ReingenieriaDeSoftware\Clase 1\Practica\EntityFrameworkCore\PersistentDatabase\obj\Debug\netcoreapp3.1\PersistentDatabase.csprojAssemblyReference.cache
